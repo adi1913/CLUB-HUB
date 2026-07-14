@@ -390,16 +390,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 🙋‍♂️ About Me <a id="about-me"></a>
-Hi, I’m **Pattikonda Surendra** 👋  
 
-🚀 BTech CSE (Data Science) | Full Stack & ML Enthusiast  
-
-🔗 Connect with me:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pattikondasurendra)  
-- 🧑‍💻 [GitHub](https://github.com/surendrapattikonda) 
-
----
 
 <div align="center">
 
